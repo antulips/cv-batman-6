@@ -43,14 +43,15 @@ span {
 }
 
 ul, dl {
-    font-family: "Helvetica", "sans-serif", "Calibri", "Arial";
+    font-family: "Calibri", "Arial", "Helvetica", "sans-serif";
     font-size: 12px;
     line-height: 18px;
 }
 
 ul {
-    text-transform: uppercase;
+    font-variant: small-caps;
 }
+
 
 footer {
     background-color: #1F497D;
